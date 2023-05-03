@@ -1,5 +1,0 @@
-.env
-node_modules
-client/dist/bundle.js*
-config.js
-square.js
